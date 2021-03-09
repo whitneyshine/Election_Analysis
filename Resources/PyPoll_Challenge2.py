@@ -91,7 +91,7 @@ with open(file_to_save, "w") as txt_file:
     txt_file.write(election_results)
 
     #6a:  Write a for loop to get the county from the county dictionary.
-    for county_name in county_votes:
+    for county_name in county_list:
 
         #6b:  Retrieve the county vote count.
         county_vote_count = county_votes[county_name]
@@ -116,7 +116,7 @@ with open(file_to_save, "w") as txt_file:
         f"\n-----------------------\n"
         f"Largest County Turnout: {largest_county}\n"
         f"-----------------------\n\n")
-    print(largest_county_turnout_results)
+        print(largest_county_turnout_results)
     
     #8: Save the county with the largest turnout to a text file.
 

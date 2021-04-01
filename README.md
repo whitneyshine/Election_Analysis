@@ -1,4 +1,6 @@
-# Election_Analysis
+# Election_Analysis<br><br>
+
+In this module challenge, I have been asked to help in with the election analysis for the State of Colorado.<br><br>
 
 
 **Overview of Election Audit**<br><br>

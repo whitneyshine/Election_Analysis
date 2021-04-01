@@ -13,6 +13,7 @@
    o	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
         
    o	Which county had the largest number of votes?
+   ![Largest_County_Election_Results](analysis/Largest_County_Election_Results.png)
         
    o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
        

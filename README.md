@@ -1,7 +1,7 @@
 # Election_Analysis
 
 
-**Overview of Election Audit**
+**Overview of Election Audit**<br><br>
 The election commission has requested some additional data to complete the audit:<br><br>
 •	The voter turnout for each county<br>
 •	The percentage of votes from each county out of the total count<br>

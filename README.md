@@ -18,9 +18,11 @@
    o	Which county had the largest number of votes?<br><br>
 ![Largest_County_Election_Results](analysis/Largest_County_Election_Results.png)<br><br>
         
-   o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+   o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.<br><br>
+![Total_Votes_Election_Results](analysis/Total_Votes_Election_Results.png)
        
-   o	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+   o	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?<br><br>
+![Winner_Votes_Election_Results](analysis/Winner_Votes_Election_Results.png)
 
 
 

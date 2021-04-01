@@ -1,10 +1,10 @@
 # Election_Analysis
 
 
-**Overview of Election Audit
+**Overview of Election Audit**
 
 
-**Election Audit Results
+**Election Audit Results**
 
    o	How many votes were cast in this congressional election?
         
@@ -20,6 +20,6 @@
 ![module_challenge_5](analysis/module_challenge_5.png)<br><br>
 
 
-**Election Audit Summary
+**Election Audit Summary**
 
 Give at least two examples of how this script can be modified to be used for other elections.

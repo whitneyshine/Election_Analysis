@@ -6,9 +6,9 @@
 
 **Election Audit Results**
 
-   o	How many votes were cast in this congressional election?
-   
  ![D1_Election_Results](analysis/D1_Election_Results.png)<br><br>
+
+   o	How many votes were cast in this congressional election?
         
    o	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
         
@@ -18,8 +18,6 @@
        
    o	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-
-![module_challenge_5](analysis/module_challenge_5.png)<br><br>
 
 
 **Election Audit Summary**

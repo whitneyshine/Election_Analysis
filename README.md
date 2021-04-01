@@ -4,7 +4,7 @@
 ## Overview of Election Audit
 
 
-## Election-Audit Results
+## Election Audit Results
 
    o	How many votes were cast in this congressional election?
         
@@ -17,6 +17,6 @@
    o	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 
-## Election-Audit Summary
+## Election Audit Summary
 
 Give at least two examples of how this script can be modified to be used for other elections.

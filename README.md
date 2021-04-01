@@ -1,6 +1,6 @@
 # Election_Analysis<br><br>
 
-In this module challenge, I have been asked to help in with the election analysis for the State of Colorado and their respected Election Commission.  I will be using Python to assist the confirmation, analysis, and audit of election results. <br><br>
+In this module challenge, I have been asked to help in with the election analysis for the State of Colorado and their respected Election Commission.  I will be using Python Code through Visual Code Studio to assist the confirmation, analysis, and audit of election results. <br><br>
 
 
 **Overview of Election Audit**<br><br>

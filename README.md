@@ -27,6 +27,8 @@ For this audit to be well received, trust and respected, we will need to we need
 ![Candidates_Votes_Election_Results](analysis/Candidates_Votes_Election_Results.png)
        
    o	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?<br><br>
+
+Our results tell us that Diane DeGette is the winner of the election with 73.8% of the vote and 272,892 votes.<br><br>
 ![Winner_Votes_Election_Results](analysis/Winner_Votes_Election_Results.png)
 
 

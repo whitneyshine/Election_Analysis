@@ -24,6 +24,9 @@ For this audit to be well received, trust and respected, we will need to we need
 ![Largest_County_Election_Results](analysis/Largest_County_Election_Results.png)<br><br>
         
    o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.<br><br>
+You will see that between the three candidates, the votes were distributed as follows:<br><br>
+Charles Casper Stockham received 23.0% of vote and a total of 85,213 votes.  Diana DeGette received a total of 73.8% of the vote which translated to a total of 272,892 votes cast in her favor.  More on her in the bullet point below.  Raymon Anthony Doane was the lowest vote getter of the evening with the candidate receiving 3.1% of the total vote for a total number of 11,606 votes.<br><br>
+
 ![Candidates_Votes_Election_Results](analysis/Candidates_Votes_Election_Results.png)
        
    o	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?<br><br>

@@ -24,6 +24,7 @@ The breakdown for the total county votes is as follows for the three reporting c
  ![Breakdown_Votes_Election_Results](analysis/Breakdown_Votes_Election_Results.png)
         
    o	Which county had the largest number of votes?<br><br>
+ The county that had the largest voter turnout was Denver County.  Much like the overall winning candidate, Denver County won the County Voter Turnout in a landslide, Denver County was responsible for 82.8%<br>
 ![Largest_County_Election_Results](analysis/Largest_County_Election_Results.png)<br><br>
         
    o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.<br><br>

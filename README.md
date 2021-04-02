@@ -1,6 +1,6 @@
 # Election_Analysis<br><br>
 
-In this module challenge, I have been asked to help with the election analysis for the State of Colorado and their respected Election Commission.  I will be using Python Code through Visual Code Studio to assist the analysis, confirmation, and audit of election results since we have ~370K lines of raw data.  In this election analysis, I will be performing calculations as well as calling data from our election results csv file. The data consists of a number for the ballot ID, a name for the county, and the candidate who received the vote.  <br><br>
+In this module challenge, I have been asked to help with the election analysis for the State of Colorado and their respected Election Commission.  I will be using Python Code through Visual Code Studio to assist the analysis, confirmation, and audit of election results since we have ~370K lines of raw data.  In this election analysis, I will be performing calculations on as well as calling data from our election results csv file. The data consists of a number for the ballot ID, a name for the county, and the candidate who received the vote.  <br><br>
 
 
 **Overview of Election Audit**<br><br>

@@ -9,7 +9,8 @@ For this audit to be well received, trust and respected, we will need to we need
 •	The percentage of votes from each county out of the total count<br>
 •	The county with the highest turnout<br>
 
-**Election Audit Results**
+**Election Audit Results**<br><br>
+Below is an image that captures the entirety of the analysis and audit that we completed for the State of Colorado Election Commission.  This information is found in the terminal when we run the script.  As we work our way down the bullet points, the image can be found in the text file that was created and stored within the Resources folder - the file is title Election Results.
 
  ![D1_Election_Results](analysis/D1_Election_Results.png)<br><br>
 

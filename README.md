@@ -20,7 +20,7 @@ Below is an image that captures the entirety of the analysis and audit that we c
 
         
    o	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.<br><br>
-The breakdown for the total county votes is as follows for the three reporting counties.  Jefferson County was the first county to report, and they contributed 10.5% of the vote for a total of 38,855 votes.  The next county that we were able to analyze and breakdown the percent contributed to the overall vote is Denver County with 82.8% of the total vote that equated to 306,055 votes from Denver County.  The lowest contributing county was Arapahoe County and their proportion of the vote cast was equal to 6.7% being derived from 24,801 total votes counted.<br><br>
+The breakdown for the total county votes is as follows for the three reporting counties.  Jefferson County was the first county to report, and they contributed 10.5% of the vote for a total of 38,855 votes.  The next county that we were able to analyze and breakdown the percent contributed to the overall vote is Denver County with 82.8% of the total vote that equated to 306,055 votes.  The lowest contributing county was Arapahoe County and their proportion of the vote cast was equal to 6.7% being derived from 24,801 total votes counted.<br><br>
  ![Breakdown_Votes_Election_Results](analysis/Breakdown_Votes_Election_Results.png)
         
    o	Which county had the largest number of votes?<br><br>

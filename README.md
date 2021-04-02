@@ -4,7 +4,7 @@ In this module challenge, I have been asked to help with the election analysis f
 
 
 **Overview of Election Audit**<br><br>
-For this audit to be well received, trust and respected, we will need to we need to read, process, and analyze, data in the file.  The election commission has requested some additional data to complete the audit:<br><br>
+For this audit to be well received, trust and respected, we will need to we need to read, process, and analyze, data in the file.  The foundation of our analysis is built around a breakdown of the number of votes and the percentage of the total votes each candidate received as well as which candidate won the election, what was their vote count, and what was their percentage of the total votes.  The election commission has requested some additional data to complete the audit:<br><br>
 •	The voter turnout for each county<br>
 •	The percentage of votes from each county out of the total count<br>
 •	The county with the highest turnout<br>

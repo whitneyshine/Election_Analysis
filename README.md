@@ -15,6 +15,7 @@ Below is an image that captures the entirety of the analysis and audit that we c
  ![D1_Election_Results](analysis/D1_Election_Results.png)<br><br>
 
    o	How many votes were cast in this congressional election?<br><br>
+ For this congressional election, there were a total of 369,711 total votes cast.  As we continue down the bullet point ladder, we will be able to dissect and learn from the total number of votes that have been collected.<br>
  ![Total_Votes_Election_Results](analysis/Total_Votes_Election_Results.png)
 
         
